@@ -16,7 +16,7 @@ let sumForEach = function(arr) {
 
   let totalSum = 0;
   arr.forEach((num) => totalSum += num);
-  console.log(totalSum)
+  // console.log(totalSum)
   return totalSum;
 };
 
